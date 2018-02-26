@@ -1,1 +1,1 @@
-﻿git  staus
+﻿git  staus git reset --hard HEAD
