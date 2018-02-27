@@ -1,1 +1,1 @@
-﻿git  staus git reset --hard HEAD
+﻿git  staus git reset git add filename
